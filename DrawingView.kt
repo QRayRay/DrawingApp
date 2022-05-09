@@ -81,6 +81,8 @@ class DrawingView(context: Context, attrs: AttributeSet) : View(context, attrs) 
 
         return true
 
+        // TODO Correct Code to make sure the Main Activty shows when the App is running and trhe drawing feature is now running.
+        
     }
 
     internal inner class CustomPath(var color: Int,
